@@ -1,5 +1,13 @@
 # FCAE
 A Spatial-compositional Feature Fusion Convolutional Autoencoder for Multivariate Geochemical Anomaly Recognition
 # requirements
-python==3.6  h5py==2.9.0  Keras==2.2.4  matplotlib==3.1.0  numpy==1.18.4  pandas==0.24.2  scikit-learn==0.23.2  tensorflow==1.13.1  xlrd==1.2.0
+python==3.6
+h5py==2.9.0
+Keras==2.2.4
+matplotlib==3.1.0
+numpy==1.18.4
+pandas==0.24.2
+scikit-learn==0.23.2
+tensorflow==1.13.1
+xlrd==1.2.0
 
